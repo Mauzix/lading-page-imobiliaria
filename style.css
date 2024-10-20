@@ -1,0 +1,145 @@
+/* Resetando margens e padding padrão */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma;
+}
+
+/* Estilização do corpo */
+body {
+    padding: 30px 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Primeira Seção */
+.primeirasessao {
+    background-color: #b5e2fd;
+    padding-bottom: 50px;
+}
+
+.primeirasessao img {
+    padding: 50px 0;
+    width: 200px;
+}
+
+.primeirasessao a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* Segunda Seção */
+.segundasessao img {
+    margin: 50px;
+    width: 85%;
+}
+
+/* Terceira Seção */
+.terceirasessao h1 {
+    color: rgb(32, 31, 31);
+}
+
+.terceirasessao h2 {
+    color: rgb(0, 174, 255);
+    font-size: 21px;
+}
+
+.terceirasessao img {
+    width: 490px;
+    height: 400px;
+    margin-top: 20px;
+}
+
+.terceirasessao span {
+    color: rgb(0, 174, 255);
+    font-weight: bold;
+}
+
+.terceirasessao p {
+    text-align: justify;
+    margin: 0 auto;
+    padding: 10px 400px;
+    font-size: 19px;
+}
+
+/* Quarta Seção */
+.quartasessao {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 174, 255);
+    padding: 10px 30px;
+}
+
+.quartasessao h2 {
+    margin-bottom: 20px;
+}
+
+.quartasessao p {
+    padding-bottom: 20px;
+}
+
+.quartasessao span {
+    color: rgb(255, 204, 0);
+    font-weight: bold;
+}
+
+.quartasessao li {
+    margin: 20px auto;
+    text-align: justify;
+    width: 135px;
+    line-height: 2px;
+}
+
+/* Quinta Seção */
+.quintasessao h2 {
+    color: rgb(0, 174, 255);
+    margin-top: 15px;
+}
+
+.quintasessao img {
+    width: 690px;
+    margin: 20px 0;
+}
+
+.quintasessao span {
+    color: rgb(0, 174, 255);
+}
+
+.quintasessao p {
+    color: rgb(0, 0, 0);
+    padding-bottom: 20px;
+    text-align: justify;
+    margin: 20px 300px;
+    width: 200%;
+}
+.sextasessao{
+    background-color: rgb(0, 174, 255);
+}
+.sextasessao iframe{
+    margin: 20px 20px;
+    width: 950px;
+    height: 450px;
+}
+.sextasessao p{
+    background-color: #1c1b1b;
+    font-size: 18px;
+    color: white;
+    
+    text-align: center;
+    margin: 20px 160px;
+}
+ .sextasessao span{
+    color: yellow;
+ }
+ .sextasessao a{
+    margin: 60 0px;
+    background-color: beige;
+ }
+ .sextasessao li{
+     padding-top: 10px;
+ }
+ .container{
+    margin: 0px  10px;
+ }
